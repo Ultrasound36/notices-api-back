@@ -21,7 +21,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<swagger.version>2.9.2</swagger.version>
 		<springfox.version>3.0.0</springfox.version>
-		<h2.version>2.1.214</h2.version>
+		<h2.version>2.2.224</h2.version>
 		<hibernate.entitymanager>5.4.10.Final</hibernate.entitymanager>
 		<hibernate.validator>8.0.0.Final</hibernate.validator>
 		<jakarta.validation>3.0.2</jakarta.validation>
